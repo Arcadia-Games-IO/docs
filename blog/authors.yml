@@ -1,0 +1,29 @@
+endi:
+  name: Arnjen Joosten
+  title: CMO & Co-Founder @ Arcadia Games
+  url: https://github.com/l1qu2d
+  image_url: https://github.com/endiliey.png
+
+yangshun:
+  name: John Weeks
+  title: CTO & Co-Founder @ Arcadia Games
+  url: https://github.com/yangshun
+  image_url: https://github.com/yangshun.png
+
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png
+
+arnjen:
+  name: Arnjen Joosten
+  title: CMO & Co-Founder @ Arcadia Games
+  url: https://arnjen.com
+  image_url: https://arnjen.com/content/images/size/w300/2024/02/arnjen-2.jpg
+
+john:
+  name: John Weeks
+  title: CTO & Co-Founder @ Arcadia Games
+  url: https://www.youtube.com/@johnweeksdev
+  image_url: https://www.arcadia.games/content/images/size/w300/2024/02/john-2.jpg
